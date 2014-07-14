@@ -11,6 +11,7 @@ This is a Bower component for Twitter Bootstrap library containing only LESS and
 ### Older versions are available as well:
 
 ```
+bower install bootstrap-less#3.1.0
 bower install bootstrap-less#3.0.0
 bower install bootstrap-less#2.3.1
 bower install bootstrap-less#2.3.0
